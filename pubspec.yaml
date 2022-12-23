@@ -29,14 +29,60 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  flutter:
-    sdk: flutter
-
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
+  audioplayers: ^1.0.1
+  bloc: ^8.1.0
+  cached_network_image: ^3.2.1
+  charts_flutter: ^0.12.0
+  collection: ^1.15.0-nullsafety.4
+  cupertino_icons: ^1.0.5
+  dbcrypt: ^2.0.0
+  device_info_plus: ^8.0.0
+  dio: ^4.0.6
+  encrypt: ^5.0.1
+  equatable: ^2.0.5
+  event_bus: ^2.0.0
+  firebase_analytics: ^9.3.2
+  firebase_core: ^1.21.0
+  firebase_crashlytics: ^2.8.8
+  firebase_in_app_messaging: ^0.6.0+22
+  firebase_messaging: ^11.4.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_facebook_auth: ^4.4.1
+  flutter_html: 3.0.0-alpha.3
+  flutter_linkify: ^5.0.2
+  flutter_local_notifications: ^9.8.0+1
+  fluttertoast: ^8.0.9
+  focus_detector: ^2.0.1
+  fpjs_pro_plugin: ^1.2.0
+  html: ^0.15.0
+  in_app_purchase: ^3.0.7
+  intl: ^0.17.0
+  json_annotation: ^4.6.0
+  linkedin_login: ^2.2.1
+  math_expressions: ^2.3.1
+  package_info: ^2.0.2
+  path_provider: ^2.0.11
+  permission_handler: ^10.2.0
+  photo_view: ^0.14.0
+  pie_chart: ^5.3.2
+  rate_my_app: ^1.1.3
+  reorderables: ^0.5.0
+  responsive_builder: ^0.4.2
+  screenshot: ^1.2.3
+  share_plus: ^4.0.10+1
+  shared_preferences: ^2.0.15
+  sign_in_with_apple: ^4.1.0
+  sound_mode: ^2.0.2
+  uni_links: ^0.5.1
+  universal_html: ^2.0.8
+  url_launcher: ^6.1.5
   vdocipher_flutter: ^2.0.0
+  video_player: 2.4.8
+  webview_flutter: ^3.0.4
 
 dev_dependencies:
   flutter_test:

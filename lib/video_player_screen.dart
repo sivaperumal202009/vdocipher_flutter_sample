@@ -18,6 +18,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
     widget.service.vdoPlayerValueNotifier.addListener(() {
       setState(() {
         hasInitialized = true;
+        isFullScreen = widget.service.isFullScreen;
       });
     });
     super.initState();

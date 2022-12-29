@@ -80,7 +80,7 @@ dependencies:
   uni_links: ^0.5.1
   universal_html: ^2.0.8
   url_launcher: ^6.1.5
-  vdocipher_flutter: ^2.0.0
+  vdocipher_flutter: ^2.0.1
   video_player: 2.4.8
   webview_flutter: ^3.0.4
 

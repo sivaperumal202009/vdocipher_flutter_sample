@@ -95,7 +95,7 @@ class VdoPlayerService {
   /// Disposes the current video controller and its data.
   void dispose() {
     _setDefaultOrientation();
-    controller.stop();
+    // controller.stop();
     controller.dispose();
   }
 

@@ -60,6 +60,9 @@ class _MyHomePageState extends State<MyHomePage> {
                     1.75,
                     2.0
                   ],
+                  embedInfoOptions: EmbedInfoOptions(
+                    resumePosition: Duration(seconds: 30),
+                  ),
                 );
                 final VdoPlayerService service = VdoPlayerService(embedInfo);
                 Navigator.push(

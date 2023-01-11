@@ -201,8 +201,8 @@ PODS:
     - Flutter
   - vdocipher_flutter (0.0.1):
     - Flutter
-    - VdoFramework (~> 2.2.0)
-  - VdoFramework (2.2.0)
+    - VdoFramework (~> 2.1.3)
+  - VdoFramework (2.1.3)
   - video_player_avfoundation (0.0.1):
     - Flutter
   - wakelock (0.0.1):
@@ -373,8 +373,8 @@ SPEC CHECKSUMS:
   Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
   uni_links: d97da20c7701486ba192624d99bffaaffcfc298a
   url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
-  vdocipher_flutter: f71b0b7b831c55c4713835168bb3085ea521980c
-  VdoFramework: 4cc8b4b5818351d89b9dcee9d06f5cbea51c0325
+  vdocipher_flutter: ad96ed8cb410aa613c733cd65391d80869d7e2cb
+  VdoFramework: c3875a1b54721921c6880d90d2422501e72498df
   video_player_avfoundation: e489aac24ef5cf7af82702979ed16f2a5ef84cff
   wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
   webview_flutter_wkwebview: b7e70ef1ddded7e69c796c7390ee74180182971f
